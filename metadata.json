@@ -1,0 +1,6 @@
+{
+  "name": "Davino — Pembuat Website & Slow Living",
+  "description": "Website personal satu halaman Davino dalam bahasa Indonesia dengan fokus membuat website, bio slow living, karya teks, dan tautan Instagram.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
